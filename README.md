@@ -19,3 +19,4 @@ Start contributing by creating branches, making changes, and submitting pull req
 License
 
 This project is licensed under the MIT. 
+Collaborator updated the features.txt file. 
